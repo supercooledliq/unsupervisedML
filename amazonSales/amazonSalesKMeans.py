@@ -1,10 +1,9 @@
-# Clustering Techniques
 # K-Means Clustering Example
 # This script demonstrates how to perform K-Means clustering on a dataset  
 #group customers based on:
-# how much they spend
-#how often they shop
-#target each group with unique offers
+ # how much they spend
+ #how often they shop
+ #target each group with unique offers
 
 import pandas as pd
 import seaborn as sns
