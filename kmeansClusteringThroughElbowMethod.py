@@ -1,10 +1,5 @@
-# Clustering Techniques
-# K-Means Clustering Example with Elbow Method
-# This script demonstrates how to perform K-Means clustering on a dataset and use the elbow method to determine the optimal number of clusters.
-# # SPDX-License-Identifier: MIT
-# # SPDX-FileCopyrightText: 2023 
 
-
+#perform K-Means clustering on a dataset and use the elbow method to determine the optimal number of clusters.
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
