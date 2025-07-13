@@ -30,7 +30,7 @@ plt.ylabel("PC2")
 plt.grid(True)
 plt.show()
 
- #--- Step 3: Visualize Clusters --- 
+ # Visualize Clusters 
 plt.figure(figsize=(5,3)) 
 sns.scatterplot(x=reduced[:, 0],y= reduced[:, 1], hue='Cluster', 
 palette='Set2', s=100) 
